@@ -1,4 +1,4 @@
-# 🚗 Porsche | Quality Assurance Project
+# 🏎️ Porsche | Quality Assurance Project
 
 <div align="center">
 
@@ -17,16 +17,18 @@
 
 ---
 
-## 🎯 What We Test
+## 🎯 Under the Hood — What We Test
+
+> *"In the beginning I looked around and, not finding the automobile of my dreams, decided to build it myself."* — Ferry Porsche
 
 <div align="center">
 
 |  | **Porsche Website** | **Porsche REST API** |
 |:---:|:---|:---|
-| 🎨 | POM Automation | Endpoint Validation |
-| ✅ | Positive Scenarios | Authentication & Security |
-| ❌ | Negative Testing | Error Handling |
-| 🧪 | Functional Testing | Performance & Load |
+| 🔩 | POM Automation | Endpoint Validation |
+| ✅ | Positive Scenarios (`Full Throttle`) | Authentication & Security |
+| ❌ | Negative Testing (`Oversteer`) | Error Handling |
+| 🧪 | Functional Testing (`PDK Shifting`) | Performance & Load |
 | 💬 | Chat Interactions | Response Accuracy |
 | 📱 | Cross-Browser/Device | Rate Limiting |
 
@@ -34,13 +36,13 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal — The Werkzeug
 
 <table align="center">
 <tr>
 <td>
 
-**Automation**
+**Automation Engine**
 - Selenium WebDriver
 - Python + UnitTest / PyTest
 - Page Object Model
@@ -48,7 +50,7 @@
 </td>
 <td>
 
-**API Testing**
+**API Testing — Sport Chrono**
 - Postman Collections
 - Newman CLI
 - JavaScript Automation
@@ -56,7 +58,7 @@
 </td>
 <td>
 
-**Infrastructure**
+**Infrastructure — GT3 RS Setup**
 - BrowserStack
 - GitHub Actions
 - HTML & Allure Reporting
@@ -67,7 +69,7 @@
 
 ---
 
-## 👨‍💼 Project Leadership
+## 👨‍💼 Project Leadership — Die Mannschaft
 
 <div align="center">
 <table>
@@ -76,7 +78,7 @@
 
 <img src="https://github.com/SergioUS.png" width="100" style="border-radius: 50%;"/><br>
 **Sergey Efremov**<br>
-`Project Manager`<br>
+`Project Manager` · *Fahrwerk*<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/SergioUS)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/sefremoff/)
 
@@ -85,7 +87,7 @@
 
 <img src="сюда ссылку на картинку" width="100" style="border-radius: 50%;"/><br>
 **Tatsiana Lentz**<br>
-`Team Lead`<br>
+`Team Lead` · *Boxster*<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/TatsianaLentz)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/tatsianalentz/)
 
@@ -94,7 +96,7 @@
 
 <img src="сюда ссылку на картинку" width="100" style="border-radius: 50%;"/><br>
 **Serine Zargaryan**<br>
-`Tech Lead`<br>
+`Tech Lead` · *Carrera S*<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/SerineGit)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/serinezargaryan/)
 
@@ -105,7 +107,7 @@
 
 ---
 
-## 🔬 QA Engineering Squad
+## 🔬 QA Engineering Squad — Das Fahrerlager
 
 <div align="center">
 <table>
@@ -170,9 +172,15 @@
 
 ---
 
-## 📋 About the Project
+## 📋 About the Project — Am Steuer
 
-Porsche QA-testing project. FE, API, Performance and Security testing, Cloud Automation testing, QA-Documentation, Selenium WebDriver, Python and JavaScript Automation, UnitTest and PyTest Framework, HTML and Allure Reporting.
+Like Porsche's legendary **flat-six** engine — precise, naturally aspirated, and built to last — our QA framework delivers performance without compromise.
+
+From the **Zuffenhausen** workshop to the digital track, we cover every layer: FE automation like a **PDK gearbox** (fast, seamless), API testing with the precision of **PASM** (Porsche Active Suspension Management), and security checks with the vigilance of **PCM** (Porsche Communication Management).
+
+Our test suites run from **Weissach** to production: Selenium WebDriver for UI, Python and JavaScript for scripting power, UnitTest & PyTest frameworks as the **rollcage**, and HTML & Allure Reporting as the **Sport Chrono** dashboard — every lap time measured, every anomaly flagged.
+
+> *No bugs get past the Nürburgring lap.*
 
 **[Porsche Bug Bounty announcements](https://newsroom.porsche.com/en/2025/company/porsche-bug-bounty-programme-round-three-40219.html)**<br>
 **[Program and Reporting Policy](https://newsroom.porsche.com/en/sustainability/porsche-digital-trust-center/ethical-hacker-program-reporting-policy.html)**<br>
@@ -182,10 +190,10 @@ Porsche QA-testing project. FE, API, Performance and Security testing, Cloud Aut
 
 <div align="center">
 
-### 💡 *Testing Excellence with Precision*
+### 💡 *Vorsprung durch Qualität*
 
-**Delivering Quality in Every Interaction**
+**Zero Defects. Full Throttle. Every Sprint.**
 
-<sub>Built with dedication by QA professionals | 2025-2026</sub>
+<sub>Built with Zuffenhausen precision by QA professionals | 2025–2026</sub>
 
 </div>
